@@ -1,0 +1,5 @@
+hi just saw that the git bash works so good and is almost like linux bash.
+SO now i can practice my linux commands here. 
+That great beacuase i was unable to run linux in the virtual machine as 
+my system has only 4 GB RAM. Thus it did not allow me to run the virtual Machine.
+Enjoy Bash here, which is a type of linux shell.
