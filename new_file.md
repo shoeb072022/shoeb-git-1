@@ -3,5 +3,5 @@
   * Yes can create and directly edit files at remote repo.
  
  ### Table of content (TOC).
- * [**_Link no .1_**](c8a2988610be3a68576118cf96555fde3d3f5816)
+ * [**_Link no .1_**](new1.txt)
  
